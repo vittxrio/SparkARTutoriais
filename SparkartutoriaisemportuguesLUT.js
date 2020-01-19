@@ -9,11 +9,9 @@ const index = 0;
 const configuration = {
   selectedIndex: index,
   items: [
-    {image_texture: Textures.get('botao0')},
-{image_texture: Textures.get('botao1')},
-{image_texture: Textures.get('botao2')},
-{image_texture: Textures.get('botao3')},
-{image_texture: Textures.get('botao4')},    
+    {image_texture: Textures.get('IMG_1067')},
+{image_texture: Textures.get('anime 2')},
+{image_texture: Textures.get('anime 3')},   
   ],
 };
 const picker = NativeUI.picker;
